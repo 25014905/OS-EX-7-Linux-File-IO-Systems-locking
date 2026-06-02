@@ -147,8 +147,8 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT
 
+<img width="532" height="736" alt="image" src="https://github.com/user-attachments/assets/3ea84186-3101-4265-ba77-290d79f0b090" />
 
-<img width="1600" height="535" alt="WhatsApp Image 2026-06-02 at 10 32 05 AM" src="https://github.com/user-attachments/assets/d413aa5f-3386-4f9a-a69e-8e31050cfb76" />
 
 DEVELOPED BY: MIRDULA D
 
