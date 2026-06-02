@@ -72,6 +72,7 @@ int main(int argc, char *argv[]) {
     return EXIT_SUCCESS;
 }
 ```
+<img width="1600" height="535" alt="WhatsApp Image 2026-06-02 at 10 32 05 AM" src="https://github.com/user-attachments/assets/f0e635b3-b1e9-4a74-8cc0-c6b7a73e5f1e" />
 
 
 ## 2.To Write a C program that illustrates files locking
@@ -147,8 +148,11 @@ int main(int argc, char *argv[]) {
 ## OUTPUT
 
 
+<img width="1600" height="535" alt="WhatsApp Image 2026-06-02 at 10 32 05 AM" src="https://github.com/user-attachments/assets/d413aa5f-3386-4f9a-a69e-8e31050cfb76" />
 
+DEVELOPED BY: MIRDULA D
 
+REGISTRATION NO. 212225040234
 
 
 
